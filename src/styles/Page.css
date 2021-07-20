@@ -1,0 +1,115 @@
+
+
+body {
+	background:#F1F2F6;
+
+	
+
+}
+
+.gauche{
+	background:#fff;
+	float: left;
+  	margin: 0% 0%;
+  	height: 900px;
+	  width: 800px;
+	margin-left: 70px;
+	border-radius: 10px;
+}
+.info{
+	margin-left: 60px;
+	margin-top: 30px;
+	color:rgb(192, 183, 241);
+	font-size: 25px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: italic;
+	font-weight: bold;
+	
+}
+.liste{
+   font-size: 30px;
+	color: white;
+
+}
+
+
+.io{
+	margin-left: 300px;
+	
+}
+
+
+
+.id1{
+
+	margin-left: 670px;
+}
+/*MANAO AN LE PAGE AMBONY KELY */
+.forms{
+	width: 500px;/* manao an le espace in largeur sy longueur */
+    height: 420px;
+    background: #fff;
+    box-shadow: 2px 2px 3px #ddcdcd ,-2px -2px 3px #ddcdcd;/* couleur ombre */
+    border-radius: 10px;/* manao boribory ny sisiny le form */
+  
+}
+.form1{
+	margin-left: 30px;
+}
+/* */
+.formss{
+	width: 700px;/* manao an le espace in largeur sy longueur */
+    height: 100px;
+    background: #fff;
+    box-shadow: 2px 2px 3px #adadad ,-2px -2px 3px #adadad;/* couleur ombre */
+    border-radius: 10px;/* manao boribory ny sisiny le form */
+  
+}
+
+/* SOUS TITRE */
+.titre1{
+	font-size: 30px;
+	color: rgb(48, 168, 98);
+	width: 320px;
+	height: 40;
+	border: none;
+	border-radius: 7px;
+	text-decoration: underline;
+
+}
+.contenu{
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: italic;
+	
+	
+}
+#image{
+	margin-left: 0px;
+	background: #fff;
+    box-shadow: 2px 2px 3px #fff ,-2px -2px 3px #fff;
+}
+
+#ft{
+	margin-left: 80px;
+	color: white;
+}
+
+.sisiny{
+	background:rgb(182, 181, 181);
+	float: left;
+  	margin: 0% 0%;
+  	height: 1100px;
+	  width: 50px;
+	  box-shadow: 2px 2px 3px rgb(78, 76, 76) ,-2px -2px 3px rgb(78, 76, 76);
+}
+.image{
+	border-radius: 8px;
+}
+#titre2{
+	color: green;
+	
+}
+#blog{
+	color: rgb(27, 16, 179);
+	
+}
